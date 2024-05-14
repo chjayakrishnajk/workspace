@@ -1,0 +1,39 @@
+unmap f
+unmap j
+unmap k
+unmap l
+unmap i
+unmap F
+unmap <a-f>
+map t LinkHints.activate
+map T LinkHints.activateOpenInNewTab
+map e scrollUp
+map n scrollDown
+map i scrollRight
+map l enterInsertMode
+map <a-t> LinkHints.activateWithQueue
+map sg autoOpen keyword="google" copied="false" selected="true"
+mapkey <n:v> <j>
+mapkey <e:v> <k>
+mapkey <i:v> <l>
+map yx LinkHints.activateOpenIncognito
+map yh LinkHints.activateHover
+map yc LinkHints.activateCopyLinkUrl
+map yf LinkHints.activateFocus
+map I goForward
+map E nextTab
+map N previousTab
+map Mi moveTabToIncognito
+map yv LinkHints.activateSelect
+unmap /
+map w enterFindMode
+unmap g0
+map g1 firstTab
+map g2 firstTab count=2
+map g3 firstTab count=3
+map g4 firstTab count=4
+map g5 firstTab count=5
+map g6 firstTab count=6
+map g7 firstTab count=7
+map g8 firstTab count=8
+map g9 firstTab count=9
